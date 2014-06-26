@@ -1,4 +1,8 @@
-
+/*
+	Author: Fatma Koç
+	File: main.cpp
+	Description: World's most prettiest Snake Game runnig on console. :)
+*/
 
 #include "stdafx.h"
 #include "include.h"
